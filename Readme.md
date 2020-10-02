@@ -1,3 +1,2 @@
-STARE-DOWN
+## WebRTC를 이용한 영상통화
 
-Capstone design project team 7
